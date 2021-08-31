@@ -1,0 +1,29 @@
+{
+  "name": "learn-bootstrap-and-sass",
+  "version": "1.0.0",
+  "description": "This website is for learning purpose. I took this project from freecodecamp youtube video.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass",
+    "freecodecamp"
+  ],
+  "author": "Hasan Naim",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "autoprefixer": "^10.2.6",
+    "bootstrap": "^5.0.2",
+    "glightbox": "^3.0.9",
+    "postcss-cli": "^8.3.1"
+  }
+}

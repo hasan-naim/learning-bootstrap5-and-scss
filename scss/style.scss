@@ -1,0 +1,23 @@
+/// Import scss
+
+@use "custom";
+
+
+// import components
+
+@use "components/animations";
+@use "components/buttons";
+@use "components/mixins";
+@use "components/typographi";
+
+// import sections
+
+@use "sections/navbar";
+@use "sections/intro-section";
+@use "sections/companis";
+@use "sections/services";
+@use "sections/testimonials";
+@use "sections/faq";
+@use "sections/portfolio";
+@use "sections/get-started";
+@use "sections/footer";
