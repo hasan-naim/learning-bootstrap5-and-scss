@@ -1,12 +1,10 @@
 ## Welcome To This Repo  😊 
-
-
-
+<br>
 I build this website from a **freecodecamp youtube video for learning and understanding** bootstrap5 and scss. And how to **customize bootstrap** by using **scss file**. I learned a lot from this project. 
-
 <!-- visit the website -->
 
 ### [visit the website -->](https://hasan-naim.github.io/learning-bootstrap5-and-scss/)
+<br>
 
 <!-- what i used to build this website -->
 ### What I used to build this website
@@ -14,6 +12,7 @@ I build this website from a **freecodecamp youtube video for learning and unders
 * Scss ([the file](https://github.com/hasan-naim/learning-bootstrap5-and-scss/tree/master/scss "go to the file"))
 * Bootstrap 5
 
+<br>
 
 ### What I learned from this project
 * Bootstrap5
@@ -33,4 +32,4 @@ _and many more_
 
 <!--   image of this website		-->
 
-[![](/assets/images/learn-bootstrap-and-sass)](https://hasan-naim.github.io/learning-bootstrap5-and-scss/)
+[![](/assets/images/learn-bootstrap-and-sass.jpg)](https://hasan-naim.github.io/learning-bootstrap5-and-scss/)
